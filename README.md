@@ -41,7 +41,7 @@ package.json
 
 Clone repository
 
-git clone https://github.com/YOURNAME/shelby-drive.git
+git clone https://github.com/dongqn/shelby-drive.git
 
 Install dependencies
 
